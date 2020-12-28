@@ -1,3 +1,1 @@
-# test_repo
-This is a test repository. 
-This is publically accessable is primarily for testing connections
+I am editing the README file. Adding some more details about the project description.
